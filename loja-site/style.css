@@ -1,0 +1,54 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+
+    height: 100px;
+    width: 100%;
+    background-color: darksalmon;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+
+}
+
+a{
+    color: white;
+    margin: auto;
+    text-decoration: none;
+}
+
+.produtos{
+    height: 80vh;
+    width: 100vw;
+    background-color: lavenderblush;
+    border-bottom:dotted 5px crimson;
+    padding-top: 100px;
+    display: flex; 
+    justify-content: space-between;
+
+
+    }
+
+        
+.produtos1{background-color: cyan;
+    height:60vh ;
+    width: 20vw;
+
+}
+.produtos2{background-color: cyan;
+    height:60vh ;
+    width: 20vw;
+}
+.produtos3{background-color: cyan;
+    height:60vh ;
+    width: 20vw;
+}
+.produtos4{background-color: cyan;
+    height:60vh ;
+    width: 20vw;
+}
