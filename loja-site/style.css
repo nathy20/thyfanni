@@ -30,25 +30,36 @@ a{
     padding-top: 100px;
     display: flex; 
     justify-content: space-between;
+    font-size: 20px;
 
 
     }
 
         
-.produtos1{background-color: cyan;
+.produtos1{background-color: white;
     height:60vh ;
     width: 20vw;
+    margin:auto ;
+    text-align-last: center;
+
 
 }
-.produtos2{background-color: cyan;
+.produtos2{background-color:white;
     height:60vh ;
     width: 20vw;
+    margin:auto ;
+    text-align-last: center;
 }
-.produtos3{background-color: cyan;
+.produtos3{background-color: white;
     height:60vh ;
     width: 20vw;
+    margin:auto ;
+    text-align-last: center;
+    
 }
-.produtos4{background-color: cyan;
+.produtos4{background-color: white;
     height:60vh ;
     width: 20vw;
+     margin:auto ;
+     text-align-last: center;
 }
