@@ -1,0 +1,49 @@
+body{
+     margin: 0;
+    padding:0;
+    background-color:  mistyrose;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serifS;
+    background-image: url( /sonho.jpg)
+    
+
+}
+form{
+
+    background-color:   rgb(247, 216, 226);
+    width: 250px;
+    margin: auto;
+    padding: 30px;
+    border:5px rgb(228, 165, 200)  solid;
+    margin-top: 100px;
+    border-radius: 10px;
+
+    
+
+    
+
+}
+
+input{
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+    width: 100%;
+
+}
+label{
+    display: block;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+button{
+    display: block;
+    border: 0;
+    padding: 10px;
+    width: 50%;
+    margin:auto ;
+    margin-top: 10px;
+    border-radius: 10px;
+}
